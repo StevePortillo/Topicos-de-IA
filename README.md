@@ -6,9 +6,9 @@ Número de control: 20170784
 Maestro: Zuriel Dathan Mora Félix
 
 
-Este repositorio contiene la Tarea 1 de la materia Tópicos de Inteligencia Artificial, donde se exploran las principales áreas de la Inteligencia Artificial (IA) y sus aplicaciones en distintos sectores.
+Este repositorio contiene la Tarea 1 de la materia Tópicos de Inteligencia Artificial, donde se exploran las principales áreas de la Inteligencia Artificial y sus aplicaciones en distintos sectores.
 
-El propósito de esta tarea es comprender cómo la IA ha evolucionado y cómo se aplica en campos como la salud, las finanzas, la educación, el transporte y la robótica. A través de esta investigación, se analizan los avances más importantes en la disciplina y su impacto en la sociedad y la industria.
+El propósito de esta tarea es comprender cómo la IA ha evolucionado y cómo se aplica en diferentes campos.
 
 📂 Contenido del repositorio:
 
