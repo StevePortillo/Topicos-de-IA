@@ -9,5 +9,5 @@ El propósito de esta tarea es comprender cómo la IA ha evolucionado y cómo se
 
 📂 Contenido del repositorio:
 
-Investigación en formato PDF con información detallada sobre las áreas de la IA y sus aplicaciones en la vida real.
-Presentación en PowerPoint que resume los puntos clave de la investigación.
+--Investigación en formato PDF con información detallada sobre las áreas de la IA y sus aplicaciones en la vida real.
+--Presentación en PowerPoint que resume los puntos clave de la investigación.
