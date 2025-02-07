@@ -1,7 +1,10 @@
 # Tópicos de Inteligencia Artificial - Tarea 1
 Alumno: Portillo Zuñiga Steve Javier
+
 Número de control: 20170784
+
 Maestro: Zuriel Dathan Mora Félix
+
 
 Este repositorio contiene la Tarea 1 de la materia Tópicos de Inteligencia Artificial, donde se exploran las principales áreas de la Inteligencia Artificial (IA) y sus aplicaciones en distintos sectores.
 
