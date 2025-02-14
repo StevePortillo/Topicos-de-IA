@@ -1,6 +1,6 @@
 # Tarea 2: Investigación sobre Sistemas Expertos con Lógica Difusa
 
-Este repositorio contiene la investigación sobre sistemas expertos que utilizan lógica difusa, realizada como parte de la Tarea 2.
+Contiene la investigación sobre sistemas expertos que utilizan lógica difusa, realizada como parte de la Tarea 2.
 
 ## Descripción
 
