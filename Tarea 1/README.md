@@ -1,4 +1,4 @@
-#TAREA 1 - Tópicos de Inteligencia Artificial
+TAREA 1 - Tópicos de Inteligencia Artificial
 
 Introducción
 
