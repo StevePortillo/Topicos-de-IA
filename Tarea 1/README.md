@@ -1,9 +1,19 @@
-TAREA 1 
+TAREA 1 - Tópicos de Inteligencia Artificial
 
-Alumno: Portillo Zuñiga Steve Javier
+Introducción
 
-Número de control: 20170784
+Bienvenido a este repositorio de la Tarea 1 de la materia Tópicos de Inteligencia Artificial. En esta tarea, exploramos las principales áreas de la Inteligencia Artificial y sus aplicaciones en distintos sectores.
 
-Maestro: Zuriel Dathan Mora Félix
+Objetivo
 
+El propósito de esta tarea es comprender cómo la Inteligencia Artificial ha evolucionado a lo largo del tiempo y analizar sus diversas aplicaciones en diferentes campos, tales como:
 
+Ciencia y Medicina
+
+Transporte y Automoción
+
+Finanzas y Negocios
+
+Entretenimiento y Videojuegos
+
+Industria y Manufactura
