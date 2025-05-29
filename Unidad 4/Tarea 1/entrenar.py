@@ -30,4 +30,4 @@ model.save("modelo_multiplicacion.h5")
 
 
 import numpy as np
-print("Predicción de 4 * 5:", model.predict(np.array([[4, 5]]))[0][0])
+print("Predicción de 4 * 5:", model.predict(np.array([[4, 5]])))
